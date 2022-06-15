@@ -3,7 +3,7 @@
 
 import pandas as pd  
 import matplotlib.pyplot as plt  
-inport japanize_matplotlib 
+import japanize_matplotlib 
 
 df = pd.read_csv("matsuyama.csv",index_col = 0) 
 
