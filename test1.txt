@@ -1,0 +1,10 @@
+# python sample 
+#  
+
+import pandas as pd  
+import matplotlib.pyplot as plt  
+inport japanize_matplotlib 
+
+df = pd.read_csv("matsuyama.csv",index_col = 0) 
+
+print("hello python wordl!")
